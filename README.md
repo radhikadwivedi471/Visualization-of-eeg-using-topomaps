@@ -7,7 +7,7 @@ Each disorder’s EEG brainwave patterns are represented using **topographic map
 
 ##  Dataset Overview
 
-- **Dataset:** [Psychiatric Disorders EEG Dataset](https://www.kaggle.com/datasets/hatouta/psychiatric-disorders-eeg-dataset)  
+- **Dataset:** [Psychiatric Disorders EEG Dataset](https://www.kaggle.com/datasets/shashwatwork/eeg-psychiatric-disorders-dataset)
 - **File:** `EEG.machinelearing_data_BRMH.csv`  
 - **EEG Bands:** Delta, Theta, Alpha, Beta, Gamma  
 - **Electrodes:** 59 (10–20 system layout)  
@@ -28,7 +28,7 @@ It includes:
 ###  Electrode Placement Map
 The standard **10-20 electrode placement** system was used to plot scalp topographies.
 
-[View Electrode Placement](https://github.com/radhikadwivedi471/Visualization-of-eeg-using-topomaps/blob/main/image/electrode_placement.png)
+[View Electrode Placement](https://github.com/radhikadwivedi471/Visualization-of-eeg-using-topomaps/blob/main/image/electrodeplacement.png)
 
 ---
 ##  Visualization Results
@@ -42,7 +42,7 @@ The standard **10-20 electrode placement** system was used to plot scalp topogra
 | Health Control | [View](https://github.com/radhikadwivedi471/Visualization-of-eeg-using-topomaps/blob/main/images/main__Health_control__alpha.png) |
 | Mood Disorder | [View](https://github.com/radhikadwivedi471/Visualization-of-eeg-using-topomaps/blob/main/images/main__Mood_disorder__alpha.png) |
 | Obsessive-Compulsive Disorder | [View](https://github.com/radhikadwivedi471/Visualization-of-eeg-using-topomaps/blob/main/images/main__Obsessive_Compulsive_disorder__alpha.png) |
-| Somatoform Disorder | [View](https://github.com/radhikadwivedi471/Visualization-of-eeg-using-topomaps/blob/main/images/main__Somatoform_disorder__alpha.png) |
+| Schizophrenia Disorder | [View](https://github.com/radhikadwivedi471/Visualization-of-eeg-using-topomaps/blob/main/images/main__Schizophrenia_disorder__alpha.png) |
 | Trauma and Stress-Related Disorder | [View](https://github.com/radhikadwivedi471/Visualization-of-eeg-using-topomaps/blob/main/images/main__Trauma_and_stress_related_disorder__alpha.png) |
 
 ---
