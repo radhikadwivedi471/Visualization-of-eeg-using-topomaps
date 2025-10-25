@@ -1,26 +1,27 @@
-# Visualization-of-eeg-using-topomaps
-#  EEG Psychiatric Disorders – Brainwave Visualization Project
+# 🧠 EEG Psychiatric Disorders – Brainwave Topomap Visualization
 
-This project analyzes and visualizes EEG (Electroencephalogram) signals for various **psychiatric disorders** such as Depression, Anxiety, Addiction, and Schizophrenia.  
-It produces **EEG topomaps** (brainwave scalp maps) and **frequency band summaries** to explore brain activity differences across mental health conditions.
+This repository visualizes **EEG (Electroencephalogram)** data of individuals diagnosed with various **psychiatric and behavioral disorders**.  
+Each disorder’s EEG brainwave patterns are represented using **topographic maps (topomaps)** that highlight frequency-band activity (Delta, Theta, Alpha, Beta, Gamma).
 
 ---
 
-##  Project Overview
+## 📊 Dataset Overview
 
-**Dataset Used:**  
-[`EEG Psychiatric Disorders Dataset`](https://www.kaggle.com/datasets/hatouta/psychiatric-disorders-eeg-dataset)  
-File: `EEG.machinelearing_data_BRMH.csv`
+- **Dataset:** [Psychiatric Disorders EEG Dataset](https://www.kaggle.com/datasets/hatouta/psychiatric-disorders-eeg-dataset)  
+- **File:** `EEG.machinelearing_data_BRMH.csv`  
+- **EEG Bands:** Delta, Theta, Alpha, Beta, Gamma  
+- **Electrodes:** 59 (10–20 system layout)  
+- **Environment:** Google Colab + Python 3  
 
-**Notebook:**  
-`visualising-pre-processed-eeg-data.ipynb`
+---
 
-**EEG Frequency Bands:**  
-- Delta (0.5–4 Hz)  
-- Theta (4–8 Hz)  
-- Alpha (8–13 Hz)  
-- Beta (13–30 Hz)  
-- Gamma (>30 Hz)
+## 🧩 Visualization Objective
+
+This project explores **EEG signal differences across psychiatric disorders** through scalp-level visualization.  
+It includes:
+- Mean band power comparisons
+- Topographic brain maps
+- Visual separation between **main disorder groups** and **specific subtypes**
 
 ---
 
@@ -35,6 +36,7 @@ The standard **10-20 electrode placement** system was used to plot scalp topogra
 > (you can export or capture it from your plotting cell if not yet saved).
 ---
 ##  Visualization Results
+## 📁 Folder Structure
 
 ###  Main Psychiatric Disorders – EEG Topomaps
 Each map shows average scalp activity per frequency band for major disorder groups.
