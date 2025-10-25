@@ -28,7 +28,7 @@ It includes:
 ###  Electrode Placement Map
 The standard **10-20 electrode placement** system was used to plot scalp topographies.
 
-[View Electrode Placement](https://github.com/radhikadwivedi471/Visualization-of-eeg-using-topomaps/blob/main/image/electrode-placement.png)
+[View Electrode Placement](https://github.com/radhikadwivedi471/Visualization-of-eeg-using-topomaps/blob/main/image/electrode_placement.png)
 
 ---
 ##  Visualization Results
@@ -41,7 +41,7 @@ The standard **10-20 electrode placement** system was used to plot scalp topogra
 | Anxiety Disorder | [View](https://github.com/radhikadwivedi471/Visualization-of-eeg-using-topomaps/blob/main/images/main__Anxiety_disorder__alpha.png) |
 | Health Control | [View](https://github.com/radhikadwivedi471/Visualization-of-eeg-using-topomaps/blob/main/images/main__Health_control__alpha.png) |
 | Mood Disorder | [View](https://github.com/radhikadwivedi471/Visualization-of-eeg-using-topomaps/blob/main/images/main__Mood_disorder__alpha.png) |
-| Obsessive-Compulsive Disorder | [View](https://github.com/radhikadwivedi471/Visualization-of-eeg-using-topomaps/blob/main/images/main__Obsessive_Compulsive_disorder__alpha.png) |
+| Obsessive-Compulsive Disorder | [View](https://github.com/radhikadwivedi471/Visualization-of-eeg-using-topomaps/blob/main/images/main__Obsessive_Compulsitve_disorder__alpha.png) |
 | Schizophrenia Disorder | [View](https://github.com/radhikadwivedi471/Visualization-of-eeg-using-topomaps/blob/main/images/main__Schizophrenia_disorder__alpha.png) |
 | Trauma and Stress-Related Disorder | [View](https://github.com/radhikadwivedi471/Visualization-of-eeg-using-topomaps/blob/main/images/main__Trauma_and_stress_related_disorder__alpha.png) |
 
@@ -57,8 +57,8 @@ The standard **10-20 electrode placement** system was used to plot scalp topogra
 | Behavioral Addiction Disorder | [View](https://github.com/radhikadwivedi471/Visualization-of-eeg-using-topomaps/blob/main/images/specific__Behavioral_addiction_disorder__alpha.png) |
 | Bipolar Disorder | [View](https://github.com/radhikadwivedi471/Visualization-of-eeg-using-topomaps/blob/main/images/specific__Bipolar_disorder__alpha.png) |
 | Depressive Disorder | [View](https://github.com/radhikadwivedi471/Visualization-of-eeg-using-topomaps/blob/main/images/specific__Depressive_disorder__alpha.png) |
-| Health Control | [View](https://github.com/radhikadwivedi471/Visualization-of-eeg-using-topomaps/blob/main/images/specific__Health_control__alpha.png) |
-| Obsessive-Compulsive Disorder | [View](https://github.com/radhikadwivedi471/Visualization-of-eeg-using-topomaps/blob/main/images/specific__Obsessive_Compulsive_disorder__alpha.png) |
+| Health Control | [View](https://github.com/radhikadwivedi471/Visualization-of-eeg-using-topomaps/blob/main/image/specific__Healthy_control__alpha.png) |
+| Obsessive-Compulsive Disorder | [View](https://github.com/radhikadwivedi471/Visualization-of-eeg-using-topomaps/blob/main/image/specific__Obsessive_Compulsitve_disorder__alpha.png) |
 | Panic Disorder | [View](https://github.com/radhikadwivedi471/Visualization-of-eeg-using-topomaps/blob/main/images/specific__Panic_disorder__alpha.png) |
 | Post-Traumatic Stress Disorder | [View](https://github.com/radhikadwivedi471/Visualization-of-eeg-using-topomaps/blob/main/images/specific__Post_traumatic_stress_disorder__alpha.png) |
 | Schizophrenia Disorder | [View](https://github.com/radhikadwivedi471/Visualization-of-eeg-using-topomaps/blob/main/images/specific__Schizophrenia_disorder__alpha.png) |
