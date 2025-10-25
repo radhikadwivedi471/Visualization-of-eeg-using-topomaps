@@ -28,7 +28,7 @@ It includes:
 ###  Electrode Placement Map
 The standard **10-20 electrode placement** system was used to plot scalp topographies.
 
-[View Electrode Placement](https://github.com/radhikadwivedi471/Visualization-of-eeg-using-topomaps/blob/main/image/electrodeplacement.png)
+[View Electrode Placement](https://github.com/radhikadwivedi471/Visualization-of-eeg-using-topomaps/blob/main/image/electrode-placement.png)
 
 ---
 ##  Visualization Results
